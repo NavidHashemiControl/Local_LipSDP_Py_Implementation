@@ -8,7 +8,7 @@ This research work is published [here](https://proceedings.mlr.press/v144/hashem
 
 There is no need to install the toolbox and you are only required to locate the repository somewhere in your machine. you may run:
 
-**`git clone https://github.com/Navidhashemicontrol/Local_LipSDP_Python.git`**
+**`git clone https://github.com/Navidhashemicontrol/Local_LipSDP_Py_Implementation.git`**
 
 
 We utilized mosek solver in our experiments, in case you have no access to the license you can easily replace it with another solver when you run the code.
